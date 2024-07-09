@@ -471,6 +471,8 @@
   background-position: center;
   background-size: cover;
   border-radius: 16px; 
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: overlay;
 }
 .support-container {
   padding: 64px 48px;
@@ -529,7 +531,6 @@
   font-family: Azeret Mono;
   font-size: 20px;
   font-weight: 600;
-
 }
 
 
