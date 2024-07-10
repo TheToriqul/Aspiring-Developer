@@ -290,12 +290,12 @@
   border-radius: 16px;
 }
 .yt-vid iframe {
-  margin-top: 32px;
+  margin: 32px auto;
   flex: none;
   order: 1;
   align-self: stretch;
   flex-grow: 0;
-  width: 1140px;
+  width: 1215px;
   height: 614px;
   border-radius: 16px;
 }
@@ -555,6 +555,7 @@
 }
 .footer-content img {
   margin-left: 24px;
+  cursor: pointer;
 }
 .footer-content h4 {
   color: rgb(13, 19, 33);
