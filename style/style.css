@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap");
 
 * {
   margin: 0px;
@@ -9,7 +9,7 @@
 .nav-bar {
   background-color: #ffffff;
   display: flex;
-  justify-content:space-between;
+  justify-content: space-between;
   align-items: center;
   margin-top: 50px;
   margin-left: 150px;
@@ -23,11 +23,10 @@
   line-height: 33px;
   letter-spacing: 0%;
   text-align: left;
-
 }
 .download-resume {
   color: rgb(13, 19, 33);
-  font-family: 'Azeret Mono';
+  font-family: "Azeret Mono";
   font-size: 20px;
   font-weight: 600;
   line-height: 23px;
@@ -59,7 +58,7 @@
   margin-top: 47px;
   margin-bottom: 88px;
 }
-.hero-img{
+.hero-img {
   width: 240.28px;
   height: 240px;
   margin-top: 26px;
@@ -87,7 +86,7 @@
   text-align: center;
   opacity: 0.7;
   width: 852px;
-  height: 52px; 
+  height: 52px;
   margin-bottom: 32px;
 }
 .hero-bg a {
@@ -104,7 +103,7 @@
   cursor: pointer;
   font-family: Azeret Mono;
   font-size: 20px;
-  font-weight: 600
+  font-weight: 600;
 }
 /* Hero Section Ends Here  */
 
@@ -171,7 +170,11 @@
   align-items: flex-start;
   padding: 48px;
   border-radius: 16px;
-  background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(
+    90deg,
+    rgb(255, 255, 255),
+    rgba(255, 255, 255, 0) 100%
+  );
 }
 .web-container-2 {
   display: flex;
@@ -180,7 +183,11 @@
   align-items: flex-start;
   padding: 48px;
   border-radius: 16px;
-  background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(
+    270deg,
+    rgb(255, 255, 255),
+    rgba(255, 255, 255, 0) 100%
+  );
 }
 .web-content-main {
   display: flex;
@@ -259,7 +266,7 @@
 .section-2 {
   margin: 88px 152px 0px 148px;
 }
-.section-2 h3{
+.section-2 h3 {
   margin-top: 88px;
   color: rgb(13, 19, 33);
   font-family: Azeret Mono;
@@ -308,7 +315,7 @@
 .current-target {
   margin: 149px 144px 48px 146px;
 }
-.current-target h3{
+.current-target h3 {
   color: rgb(13, 19, 33);
   font-family: Azeret Mono;
   font-size: 32px;
@@ -328,7 +335,7 @@
   text-align: center;
   opacity: 0.7;
 }
-.grid-container{
+.grid-container {
   display: grid;
   justify-content: space-evenly;
   align-items: center;
@@ -392,7 +399,7 @@
 .next-target {
   margin: 111px 144px 48px 146px;
 }
-.next-target h3{
+.next-target h3 {
   color: rgb(13, 19, 33);
   font-family: Azeret Mono;
   font-size: 32px;
@@ -462,7 +469,6 @@
 }
 /* Section 3 Ends Here  */
 
-
 /* Section 4 Starts Here  */
 .section-4 {
   margin: 88px 152px 0px 148px;
@@ -470,15 +476,12 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  border-radius: 16px; 
+  border-radius: 16px;
   background-color: rgba(0, 0, 0, 0.5);
   background-blend-mode: overlay;
 }
 .support-container {
   padding: 64px 48px;
-}
-.inner-container {
-
 }
 .inner-container h4 {
   color: rgb(255, 255, 255);
@@ -499,14 +502,14 @@
   letter-spacing: 0%;
   text-align: center;
   opacity: 0.7;
-  margin-bottom: 24px;  
+  margin-bottom: 24px;
 }
 .form-part {
   display: flex;
   gap: 24px;
   justify-content: center;
   align-items: center;
-  box-sizing: border-box
+  box-sizing: border-box;
 }
 .form-part input {
   box-sizing: border-box;
@@ -532,14 +535,7 @@
   font-size: 18px;
   font-weight: 600;
 }
-
-
 /* Section 4 Ends Here  */
-
-
-
-
-
 
 /* Footer Starts from Here  */
 .footer-bg {
