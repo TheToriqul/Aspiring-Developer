@@ -12,7 +12,7 @@ Welcome to my personal website! This project showcases my journey towards becomi
 - [Footer](#footer)
 
 ## Introduction
-The website begins with a navigation bar that features my name "TheToriqul" and a link to download my resume. The hero section introduces my aspiration to become a developer, highlighting my passion for coding and commitment to making significant contributions to the tech world.
+The website begins with a navigation bar that features my name "Aspiring Developer: My Journey Ahead" and a link to download my resume. The hero section introduces my aspiration to become a developer, highlighting my passion for coding and commitment to making significant contributions to the tech world.
 
 ## Why Web Development?
 Web development blends creativity with technical skills, offering endless opportunities for learning and growth. I believe in transforming ideas into impactful solutions and helping people by creating modern web systems.
