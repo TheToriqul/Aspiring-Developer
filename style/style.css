@@ -562,6 +562,9 @@
 }
 /* Footer Ends from Here  */
 
+
+
+/* Responsive Styles for 576px */
 @media screen and (max-width: 576px) {
   .nav-bar{
     flex-direction:column;
@@ -646,3 +649,5 @@
     margin-top: 24px;
   }
 }
+
+
