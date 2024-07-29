@@ -1,0 +1,14 @@
+{
+  "name": "aspiring-developer",
+  "version": "1.0.0",
+  "description": "Welcome to my personal website! This project showcases my journey towards becoming a proficient developer. Here, you'll find information about my skills, goals, and inspirations.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/tailwind.css -o ./output/tailwind.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.7"
+  }
+}
