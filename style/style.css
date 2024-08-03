@@ -562,18 +562,16 @@
 }
 /* Footer Ends from Here  */
 
-
-
 /* Responsive Styles for 576px */
 @media screen and (max-width: 576px) {
-  .nav-bar{
-    flex-direction:column;
+  .nav-bar {
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     padding: 16px;
     gap: 20px;
   }
-  .nav-title{
+  .nav-title {
     width: 300%;
     height: 10%;
     font-size: 30px;
@@ -581,7 +579,7 @@
     line-height: 40px;
     text-align: center;
   }
-  .download-resume{
+  .download-resume {
     width: 150%;
     height: 10%;
     font-size: 16px;
@@ -589,14 +587,14 @@
     line-height: 20px;
     text-align: center;
   }
-  .hero-bg h1{
+  .hero-bg h1 {
     width: 90%;
     height: 5%;
     font-size: 24px;
     font-weight: 800;
     line-height: 30px;
   }
-  .hero-bg p{
+  .hero-bg p {
     width: 90%;
     height: 20%;
     font-size: 16px;
@@ -608,16 +606,16 @@
     margin: 24px 24px;
     padding: 10px;
   }
-  .web-bg{
+  .web-bg {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     margin: 24px auto;
   }
-  .web-dev{
+  .web-dev {
     width: 100%;
     padding: 0px;
   }
-  .web-content-main{
+  .web-content-main {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     gap: 16px;
@@ -631,15 +629,15 @@
   .section-3 {
     margin: 40px 24px;
   }
-  .current-target{
+  .current-target {
     margin: 24px 0px;
   }
-  .grid-container{
+  .grid-container {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     gap: 16px;
   }
-  .next-target{
+  .next-target {
     margin: 24px 0px;
   }
   .section-4 {
@@ -665,5 +663,3 @@
     margin-top: 24px;
   }
 }
-
-
