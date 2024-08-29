@@ -1,3 +1,0 @@
-GitHub Repository Link: https://github.com/TheToriqul/PH-Assignment1
-GitHub Page Link: https://thetoriqul.github.io/PH-Assignment1/
-Netlify Page Link: https://ph-assignment1.netlify.app/
