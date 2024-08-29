@@ -97,7 +97,7 @@ This website is designed for desktop or large devices only. It is compatible wit
 
 ## Contributing
 
-Contributions to the Aspiring Developer Portfolio repository are welcome! If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request. Please ensure that your contributions adhere to the project's guidelines and coding standards.
+Contributions to the Aspiring Developer Portfolio repository are welcome! If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request. Please ensure that your contributions adhere to the project's guidelines and coding standards. 
 
 ## Contact
 
