@@ -154,7 +154,7 @@ Contributions to the Aspiring Developer Portfolio repository are welcome! If you
 
 ## Contact
 
-For any questions or inquiries regarding the project, please feel free to contact us:
+For any questions or inquiries regarding the project, please feel free to contact me:
 
 - **Email:** toriqul.int@gmail.com
 - **Phone:** +65 8936 7705, +8801765 939006
