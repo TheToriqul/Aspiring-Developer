@@ -1,4 +1,4 @@
-# [Aspiring Developer Portfolio](https://thetoriqul.github.io/Fitness-Website/)
+# [Aspiring Developer Portfolio](https://thetoriqul.github.io/Aspiring-Developer/)
 
 ## Overview
 
